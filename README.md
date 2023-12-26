@@ -5,4 +5,4 @@
 The HTML structure is made up of several layers positioned absolutely to form the shape of a tree. CSS styles the tree and defines the colors and layers of the foliage. JavaScript to add interactivity and animations.</h2>
 <br>
 
-<img src="https://github.com/Josetelma/Portfolio/blob/main/img/img1.PNG?raw=true"/>
+<img src="https://github.com/Josetelma/Project-Christmas/blob/main/assets/img.JPG?raw=true"/>
