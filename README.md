@@ -1,4 +1,4 @@
-<h1>Merry Christmas</h1>
+<h1>Merry Christmas☃️</h1>
 <br>
 
 <h2>Creating a Christmas tree using HTML, CSS and JavaScript is a fun and educational project.
